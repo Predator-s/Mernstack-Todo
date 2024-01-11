@@ -2,6 +2,12 @@
 
 This is a Todo App built with React.js for the frontend, Node.js and Express for the backend, and PostgreSQL for the database.
 
+## Screenshots
+![Screenshot (18)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/7bfd2a86-84c9-49b5-b333-805f0f7e6a46)
+![Screenshot (20)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/492423b9-a849-4293-8574-b25a91808671)
+![Screenshot (21)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/406aabdc-6dfc-44cc-b09d-8ad0b05e004a)
+![Screenshot (23)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/b31ada00-5f1f-4622-82bf-29c73197e21c)
+
 ## Features
 
 - User authentication with JWT token
@@ -79,11 +85,6 @@ npm start
 - `DELETE /deleteSubTodo/:id`: Delete a subtodo by ID
 - `PUT /toggleSubTodo/:id`: Toggle the completion status of a subtodo
 
-## Screenshots
-![Screenshot (18)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/7bfd2a86-84c9-49b5-b333-805f0f7e6a46)
-![Screenshot (20)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/492423b9-a849-4293-8574-b25a91808671)
-![Screenshot (21)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/406aabdc-6dfc-44cc-b09d-8ad0b05e004a)
-![Screenshot (23)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/b31ada00-5f1f-4622-82bf-29c73197e21c)
 
 
 
