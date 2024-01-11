@@ -86,8 +86,5 @@ npm start
 ![Screenshot (23)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/b31ada00-5f1f-4622-82bf-29c73197e21c)
 
 
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or opening issues. Your feedback and contributions are welcome!
 
 
