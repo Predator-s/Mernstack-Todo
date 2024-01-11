@@ -80,12 +80,11 @@ npm start
 - `PUT /toggleSubTodo/:id`: Toggle the completion status of a subtodo
 
 ## Screenshots
-<img src="https://github.com/rushibelkunde/todo-app/assets/105653187/31448361-d2d7-4465-be01-2f91f02321a1" width="500px">
-<hr/>
-<img src="https://github.com/rushibelkunde/todo-app/assets/105653187/1ae15a15-b026-4fb6-8de3-4f5e22de0f81" width="500px">
-<hr/>
-<img src="https://github.com/rushibelkunde/todo-app/assets/105653187/44944d18-6a57-4174-855c-4ff67f57a2a3" width="500px">
-<hr/>
+![Screenshot (18)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/7bfd2a86-84c9-49b5-b333-805f0f7e6a46)
+![Screenshot (20)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/492423b9-a849-4293-8574-b25a91808671)
+![Screenshot (21)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/406aabdc-6dfc-44cc-b09d-8ad0b05e004a)
+![Screenshot (23)](https://github.com/Predator-s/Mernstack-Todo/assets/123081811/b31ada00-5f1f-4622-82bf-29c73197e21c)
+
 
 ## Contributing
 
